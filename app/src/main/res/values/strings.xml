@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PicPayClone</string>
+    <string name="title_home">Home</string>
+    <string name="title_pagar">Pagar</string>
+    <string name="title_ajustes">Ajustes</string>
+    <string name="title_login"></string>
+    <string name="r_0_00">R$ 0,00</string>
+    <string name="saldo">Saldo</string>
+    <string name="numero_cartao">Número Cartão</string>
+    <string name="nome_titular">Nome Titular</string>
+    <string name="vencimento">Vencimento</string>
+    <string name="cvc">CVC</string>
+    <string name="transferencia">Transferência</string>
+    <string name="_todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="meu_saldo">Meu saldo</string>
+    <string name="atividades">Atividades:</string>
+    <string name="meu_picpay">Meu PicPay</string>
+    <string name="meu_numero">Meu número</string>
+    <string name="meu_e_mail">Meu e-mail</string>
+    <string name="sair">Sair</string>
+    <string name="r_40_00">R$40,00</string>
+    <string name="voc">Você</string>
+    <string name="pagou">pagou</string>
+    <string name="_">|</string>
+    <string name="todo_">TODO</string>
+    <string name="cartao_de_credito">Cartão de crédito</string>
+    <string name="transferir">Transferir</string>
+    <string name="numero_do_cartao">Número do cartão</string>
+    <string name="nome_do_titular">Nome do titular</string>
+    <string name="cvv">CVV</string>
+    <string name="contatos">Contatos:</string>
+    <string name="usuario">Usuário</string>
+    <string name="joaovf">joaovf</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+</resources>
